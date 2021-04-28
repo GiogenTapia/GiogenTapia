@@ -3,8 +3,9 @@
 ## About me
 
 🐱‍💻 I'm a computer systems engineering student at Instituto Tecnológico Superior del Sur de Guanajuato.<br>
-🎸 In my free time I play the guitar and play videogames.<br>
+🎭 In my free time I play the guitar, videogames or drawing.<br>
 🌱 I’m currently learning Web development and Android apps development.<br>
+
 
 ## Programming Languages
 <img src="https://i.pinimg.com/originals/5d/08/78/5d087850e740fc8f6fd767d121c28a58.png" width="80px"/> <img src="https://freevectorlogo.net/wp-content/uploads/2013/03/java-eps-vector-logo-400x400.png" width="100px"/> 
