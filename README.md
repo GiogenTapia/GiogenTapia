@@ -7,12 +7,13 @@
 🌱 I’m currently learning Web development and Android apps development.<br>
 
 ## Programming Languages
-<img src="https://i.pinimg.com/originals/5d/08/78/5d087850e740fc8f6fd767d121c28a58.png" width="80px"/> <img src="https://freevectorlogo.net/wp-content/uploads/2013/03/java-eps-vector-logo-400x400.png" width="100px"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width="75px"/>
+<img src="https://i.pinimg.com/originals/5d/08/78/5d087850e740fc8f6fd767d121c28a58.png" width="80px"/> <img src="https://freevectorlogo.net/wp-content/uploads/2013/03/java-eps-vector-logo-400x400.png" width="100px"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" width="75px"/>
 
 ## Back-end skills
 
 <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" width="170px"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" width="100px"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" width="100px"/>
+<img src="https://brandslogos.com/wp-content/uploads/thumbs/microsoft-sql-server-logo-vector.svg" width="100px"/>
 
 ## Front-end skills
 
