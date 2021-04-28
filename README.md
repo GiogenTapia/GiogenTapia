@@ -11,7 +11,8 @@
 
 ## Back-end skills
 
-<img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" width="170px"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" width="100px"/> <img src="https://brandslogos.com/wp-content/uploads/thumbs/microsoft-sql-server-logo-vector.svg" width="100px"/>
+<img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" width="170px"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" width="100px"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" width="100px"/>
 
 ## Front-end skills
 
