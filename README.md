@@ -29,7 +29,7 @@ src="https://logodownload.org/wp-content/uploads/2015/05/android-logo-3-2.png" w
 
 ## GitHub stats
 
-[![betoxxD's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiogenTapia)](https://github.com/GiogenTapia/github-readme-stats)
+[![GiogenTapia's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiogenTapia&theme=tokyonight)](https://github.com/GiogenTapia/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiogenTapia&layout=compact)](https://github.com/GiogenTapia/github-readme-stats)
 
