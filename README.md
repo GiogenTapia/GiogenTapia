@@ -25,6 +25,6 @@
 
 [![betoxxD's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiogenTapia)](https://github.com/GiogenTapia/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiogenTapiaD&layout=compact)](https://github.com/GiogenTapia/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiogenTapia&layout=compact)](https://github.com/GiogenTapia/github-readme-stats)
 
 
