@@ -10,6 +10,7 @@
 ## Programming Languages
 <img src="https://i.pinimg.com/originals/5d/08/78/5d087850e740fc8f6fd767d121c28a58.png" width="80px"/> <img src="https://freevectorlogo.net/wp-content/uploads/2013/03/java-eps-vector-logo-400x400.png" width="100px"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" width="75px"/>
+<img src="https://iconape.com/wp-content/files/fh/110909/png/typescript.png" width="80px"/>
 
 ## Back-end skills
 
@@ -26,7 +27,7 @@
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="80px"/> <img
 src="https://logodownload.org/wp-content/uploads/2015/05/android-logo-3-2.png" width="100px"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/456px-.NET_Logo.svg.png" width="80px"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Adobe_Photoshop_Express_logo.svg/1200px-Adobe_Photoshop_Express_logo.svg.png" width="80px"/><img src="http://www.dannypid.com/wp-content/uploads/2020/06/unity-icon-png-3.png" width="80px"/>
 
-<img src="https://iconape.com/wp-content/files/fh/110909/png/typescript.png" width="80px"/>
+
 
 
 ## GitHub stats
