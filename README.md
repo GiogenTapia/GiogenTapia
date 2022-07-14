@@ -2,9 +2,9 @@
 
 ## About me
 
-🐱‍💻 I'm a computer systems engineering student at Instituto Tecnológico Superior del Sur de Guanajuato.<br>
+🐱‍💻 I'm a computer systems engineering <br>
 🎭 In my free time I play the guitar, videogames or drawing.<br>
-🌱 I’m currently learning Web development and Android apps development.<br>
+🌱 I’m currently learning Web development and Azure DevOps <br>
 
 
 ## Programming Languages
