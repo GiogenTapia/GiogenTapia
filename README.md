@@ -8,10 +8,7 @@
 
 
 ## Programming Languages
-<img src="https://i.pinimg.com/originals/5d/08/78/5d087850e740fc8f6fd767d121c28a58.png" width="80px"/> 
-<img src="https://cdn-icons-png.flaticon.com/512/1183/1183669.png" width="100px"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" width="75px"/>
-<img src="https://iconape.com/wp-content/files/fh/110909/png/typescript.png" width="80px"/>
+<img src="https://i.pinimg.com/originals/5d/08/78/5d087850e740fc8f6fd767d121c28a58.png" width="80px"/> <img src="https://cdn-icons-png.flaticon.com/512/1183/1183669.png" width="100px"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" width="75px"/><img src="https://iconape.com/wp-content/files/fh/110909/png/typescript.png" width="80px"/>
 
 ## Back-end skills
 
