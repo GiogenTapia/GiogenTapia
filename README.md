@@ -22,12 +22,7 @@
 ## Technologies
 
 
-<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="80px"/> 
-<img src="https://logodownload.org/wp-content/uploads/2015/05/android-logo-3-2.png" width="100px"/> 
-<img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" width="80px"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Adobe_Photoshop_Express_logo.svg/1200px-Adobe_Photoshop_Express_logo.svg.png" width="80px"/>
-<img src="http://www.dannypid.com/wp-content/uploads/2020/06/unity-icon-png-3.png" width="80px"/>
-<img src="https://docs.angular.lat/assets/images/logos/angular/angular_whiteTransparent.png" width="80px"/>
+<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="80px"/> <img src="https://logodownload.org/wp-content/uploads/2015/05/android-logo-3-2.png" width="100px"/> <img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" width="80px"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Adobe_Photoshop_Express_logo.svg/1200px-Adobe_Photoshop_Express_logo.svg.png" width="80px"/><img src="http://www.dannypid.com/wp-content/uploads/2020/06/unity-icon-png-3.png" width="80px"/><img src="https://docs.angular.lat/assets/images/logos/angular/angular_whiteTransparent.png" width="80px"/>
 
 
 
