@@ -4,7 +4,7 @@
 
 🐱‍💻 I'm a computer systems engineering <br>
 🎭 In my free time I play the guitar, videogames or drawing.<br>
-🌱 I’m currently learning Web development and Azure DevOps <br>
+🌱 I’m currently learning Web development and DevOps in Synergy Systems<br>
 
 
 ## Programming Languages
